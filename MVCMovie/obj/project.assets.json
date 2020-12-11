@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\_DEV BRENO-MORAIS\\_Código-Fonte\\MVCMovie\\MVCMovie\\MVCMovie\\MVCMovie.csproj",
+      "projectUniqueName": "E:\\_DEV BRENO-MORAIS\\_Código-Fonte\\MVCMovieMicrosoft\\MVCMovieMicrosoft\\MVCMovie\\MVCMovie.csproj",
       "projectName": "MVCMovie",
-      "projectPath": "E:\\_DEV BRENO-MORAIS\\_Código-Fonte\\MVCMovie\\MVCMovie\\MVCMovie\\MVCMovie.csproj",
+      "projectPath": "E:\\_DEV BRENO-MORAIS\\_Código-Fonte\\MVCMovieMicrosoft\\MVCMovieMicrosoft\\MVCMovie\\MVCMovie.csproj",
       "packagesPath": "C:\\Users\\breno\\.nuget\\packages\\",
-      "outputPath": "E:\\_DEV BRENO-MORAIS\\_Código-Fonte\\MVCMovie\\MVCMovie\\MVCMovie\\obj\\",
+      "outputPath": "E:\\_DEV BRENO-MORAIS\\_Código-Fonte\\MVCMovieMicrosoft\\MVCMovieMicrosoft\\MVCMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -34,8 +34,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "E:\\PRODUTIVIDADE-CODIGOS\\Fast-Report\\Nugets\\Core3": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://packagesource": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
